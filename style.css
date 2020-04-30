@@ -1,0 +1,60 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#link
+{
+	background-color: black;
+	float: left;
+	margin-top: 18%;
+	margin-left: 32%;
+	padding: 4%;
+	text-align: center;
+}
+
+#answer
+{
+	float: left;
+	background-color: black;
+	height: 400px;
+	margin-top: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
+	color: white;
+	text-align: center;
+}
+
+#sub_answer
+{
+	padding-top: 10%;
+	padding-left: 35%;
+	padding-right: 35%;
+}
+
+#puro_veneno
+{
+	margin-top: 10%;
+	height: 380px;
+	width: 450px;
+	margin-right: 5%;
+	margin-top: 10%;
+	border: black 20px solid;
+}
+
+a
+{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: turquoise;
+}
+
+body
+{
+	background-image: url("img/troll.jpg");
+}
